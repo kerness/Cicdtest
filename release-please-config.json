@@ -1,0 +1,3 @@
+{
+ "pull-request-title-pattern": "^(TASK|BUG|US)-\d{7}$ chore: release ${branch}" 
+}
