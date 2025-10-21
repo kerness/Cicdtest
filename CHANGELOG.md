@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/kerness/Cicdtest/compare/v1.2.0...v1.3.0) (2025-10-21)
+
+
+### Features
+
+* kfd ([#9](https://github.com/kerness/Cicdtest/issues/9)) ([6e808ba](https://github.com/kerness/Cicdtest/commit/6e808ba34e57ec8859ec691b76deb820cb4e3575))
+
 ## [1.2.0](https://github.com/kerness/Cicdtest/compare/v1.1.0...v1.2.0) (2025-10-21)
 
 
