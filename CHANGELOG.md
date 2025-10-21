@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/kerness/Cicdtest/compare/v1.0.0...v1.1.0) (2025-10-21)
+
+
+### Features
+
+* add nf ([#4](https://github.com/kerness/Cicdtest/issues/4)) ([df6306a](https://github.com/kerness/Cicdtest/commit/df6306a9827bb3dcb519fe1877e9b64b4920044b))
+
 ## 1.0.0 (2025-10-21)
 
 
