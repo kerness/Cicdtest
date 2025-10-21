@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/kerness/Cicdtest/compare/v1.1.0...v1.2.0) (2025-10-21)
+
+
+### Features
+
+* gjjg ([#7](https://github.com/kerness/Cicdtest/issues/7)) ([1194cec](https://github.com/kerness/Cicdtest/commit/1194cec8884cfe127e1531eb328071543e95b7cf))
+
 ## [1.1.0](https://github.com/kerness/Cicdtest/compare/v1.0.0...v1.1.0) (2025-10-21)
 
 
